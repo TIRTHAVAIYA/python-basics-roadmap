@@ -1,0 +1,28 @@
+Tirthkumar Avaiya
+Government Engineering College,
+Bhavnagar
+B.E. Information Technology (2022–2026)
+
+Respected Selection Committee,
+
+I am writing to express my strong interest in participating in the EPFL Summer Research Program. As a final-year Information Technology student at Government Engineering College, Bhavnagar, I have developed a deep passion for Artificial Intelligence, Machine Learning, and Agentic AI systems. Through my academic projects and internship experience, I have cultivated both technical expertise and a strong curiosity for applying AI to solve real-world problems — especially those related to sustainability and intelligent automation.
+
+During my internship at CSRBBOX (IBM SkillBuild), I worked on developing agentic AI architectures using LangChain, Gemini/OpenAI APIs, and Retrieval-Augmented Generation (RAG). This experience strengthened my understanding of prompt engineering, LLM orchestration, and AI system design, while also teaching me the importance of safe and reliable AI agent behavior.
+
+I have also built several research-oriented projects such as:
+
+EcoMate, an agentic AI for climate action (SDG 13),
+
+VisionEarth, a CNN-based satellite image classifier, and
+
+AgroEye, an ML-based crop health prediction system.
+These projects reflect my interest in applying AI for sustainability, automation, and environmental monitoring.
+
+EPFL’s interdisciplinary research environment and commitment to innovation deeply resonate with my academic goals. I am particularly drawn to the opportunity to work alongside leading researchers, gain exposure to advanced AI tools, and contribute to impactful projects that bridge research and real-world application. I believe this experience will not only enhance my technical and analytical skills but also prepare me for future graduate research in AI and Intelligent Systems.
+
+I am confident that my background in Machine Learning, Computer Vision, and Agentic AI, combined with my enthusiasm for collaborative research, makes me a strong candidate for this program. I am eager to bring my skills, curiosity, and dedication to EPFL’s vibrant research community.
+
+Thank you for considering my application. I look forward to the opportunity to learn, contribute, and grow at EPFL.
+
+Sincerely,
+Tirthkumar Avaiya
